@@ -21,11 +21,11 @@
 # dict2 = collections.Counter(str1)
 # print(dict2)
 
-# # Find the last position of a substring “Emma” in a given string
+ # Find the last position of a substring “Emma” in a given string
 # str1 = "Emma is a data scientist who knows Python. Emma works at google."
 # print(str1.rfind("Emma"))
-#
-#
+
+
 # # Split a given string on hyphens into several substrings and display each substring
 # str1 = "Emma-is-a-data-scientist"
 # list1 = str1.split("-")

@@ -14,10 +14,11 @@
 # print(list1.index(1))
 #
 # # insert at particular index (index,value)
-#
+
+
 # list1.insert(2, 300)
 # print(list1)
-# # Pop removes last element from the list
+ # Pop removes last element from the list
 # # list1.pop()
 # # list1.pop()
 # # list1.pop()
